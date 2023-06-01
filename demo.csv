@@ -1,0 +1,57 @@
+टाइमस्टँप,roll_num,name,middlename,surname,age,marks,gender,favorite_sport,native_city,year_of_passing_10th
+30/05/2023 11:02:32,2201013,Swaroop ,Jitendra,Bankar,21,7.9,Male,Badminton,Pune,2017
+30/05/2023 11:02:47,22201055,Isha,Praveen,Hosur,22,8.64,Female,Swimming,Pune,2017
+30/05/2023 11:02:52,2201071,Pranav ,Girish,Joshi,22,8.2,Male,Cricket,Pune,2017
+30/05/2023 11:02:54,2201049,Kunal,Vijay,Golani,,8.36 SGPA,Male,Cricket,Surat,2017
+30/05/2023 11:03:00,2201070,Naresh,prakash,Joshi,22,85,Male,cricket,aurangabad,2017
+30/05/2023 11:03:02,2201041,Shreyas,Sanjay,Dharashivkar,22,7.9,Male,Swimming,Pune,2017
+30/05/2023 11:03:05,2201068,Maitreyee ,Mahesh,Joshi,22,9.25,Female,Badminton,Pune,2017
+30/05/2023 11:03:16,2201069,Mrunal ,Vivek,Joshi,21,88%,Female,swimming,Pune,2017
+30/05/2023 11:03:29,2201043,Vaibhav ,Girish,Dixit,23,80,Male,Squash,Mumbai,2015
+30/05/2023 11:03:32,2201065,Aakash ,Satish,Jagtap,21,82.4,Male,Cricket,Pune,2017
+30/05/2023 11:03:35,2201063,Sanket  ,Rajaram,Jadhav,,98.21,Male,Swimmng,Chicnholi,2017
+30/05/2023 11:03:38,2201038,Priyanka ,Popat,Dhanave,21,82.8,Female,Swimming,Pune,2017
+30/05/2023 11:03:40,2201097,Ranjit,Prakash,Kokare,,80,Male,Badminton,Solapur,2015
+30/05/2023 11:03:41,2201032,Aditi,Mangesh,Deo,,75%,Female,swimming,Pune,2017
+30/05/2023 11:03:43,2201040,Tejas,Arun,Dhanuskar,,90,Male,Cricket,Nagpur,2017
+30/05/2023 11:03:45,2201098,hritika ,chandrakant,koli,22,50,Female,cricket,pune,2016
+30/05/2023 11:03:58,2201016,Harshada,Vijay,Bhalekar,22,78%,Female,Badminton,Sangamner,2017
+30/05/2023 11:04:01,2201051,Sanskriti ,.,Gupta,,100,Female,.,Varanasi,2017
+30/05/2023 11:04:05,2201076,Akanksha ,Bharat,Kadlag,22,87,Female,Badminton,Sinnar,2016
+30/05/2023 11:04:05,2201035,Parth ,Dinkar,Deshpande,21,90,Male,Cricket,Akola,2017
+30/05/2023 11:04:11,2201103,Ajay ,Rupchand ,Koronde,,82,Male,Cricket,Gondia,2017
+30/05/2023 11:04:14,2201089,Tejas ,Mahendra,kashid,,7.8,Male,Cricket,pune,2017
+30/05/2023 11:04:28,2201177,Pranjal ,Prakash,Shintre,22,87,Male,Football,Kolhapur,2016
+30/05/2023 11:04:46,2201030,Debraj,Debasish,Das,,100,Male,Football,Kolkata,2017
+30/05/2023 11:04:47,2201101,Shreya ,Rahul,Korde,21,85,Female,Cricket,Kolhapur,2017
+30/05/2023 11:04:49,2201024,Vedant,Mangesh,Chandratre,22,8.57 sgpa,Male,Power Lifting,Pune,2017
+30/05/2023 11:04:58,2201102,Ganesh ,Balasaheb,Kore,,100,Male,Cricket,pune,2016
+30/05/2023 11:04:58,2201002,Parth ,Pramod,Agnihotri,,83.32,Male,TT_Badminton,pune,2019
+30/05/2023 11:04:59,2201028,Mihir ,Hemant,chaudhary,22,89,Male,football,mumbai,2017
+30/05/2023 11:05:02,2201037,Abhishek,Ramdas,Dethe,,8,Male,Cricket,Amravati,2016
+30/05/2023 11:05:06,2201095,Aditya,Ashok,Kodape,22,7.9 cgpa,Male,football,Satefal,2017
+30/05/2023 11:05:06,2201020,Mayur ,Sanjaykumar,Biyale,,83,Male,Cricket,Beed,2015
+30/05/2023 11:05:11,2201018,RIYA ,PRAMOD,BHIDE,23,7.32 SGPA,Female,CRICKET,NAGPUR,2015
+30/05/2023 11:05:18,2201073,Utkarsha ,Shridhar,Joshi ,22,66,Female,Cricket ,Aurangabad ,2017
+30/05/2023 11:05:21,2201008,Shreyash  ,Sanjay,Amrutkar,21,80,Male,Cricket,Nashik,2017
+30/05/2023 11:05:27,2201056,Aditya, Sanjay ,Jadhav,23,93,Male,Cricket,Nashik,2016
+30/05/2023 11:05:28,2201077,Aniruddha,Rajesh,Kakade,,70,Male,Football,Kolhapur,2017
+30/05/2023 11:05:44,2201021,Yash ,Subhash,Bombale,21,72.10%,Male,Swimming ,Pune,2017
+30/05/2023 11:05:51,2201009,Anshika, , ,,7.96,Female,Badminton,Pune,2016
+30/05/2023 11:05:52,2201094,keshvi ,kumari,khanduja,22,8.5,Female,badminton,neemuct,2017
+30/05/2023 11:05:52,2201004,Ritika ,Surendra,Ahuja,22,75%,Female,Badminton,Dhule,2021
+30/05/2023 11:05:55,2201022,Omkar ,Vijay,Borse,21,8.36,Male,cricket,Nashik,2017
+30/05/2023 11:05:56,2201061,Rohit ,Sunil,Jadhav,23,7.21 SGPA,Male,Cricket,Sangamner,2016
+30/05/2023 11:05:59,2201031,Amogh,Shrikant,Datar,22,81,Male,Chess,Pune,2017
+30/05/2023 11:06:10,2201012,Gaurav,Sunil,Bangade,21,8,Male,voliball,Warora,2017
+30/05/2023 11:06:14,2201036,Eshan ,Ashish,Desle,24,7,Male,Cricket,Pune,2014
+30/05/2023 11:06:25,2201058,Manasi ,Shreedhar,Jadhav,22,8.5 sgpa,Female,cricket,mahabaleshwar,2017
+30/05/2023 11:06:26,2201066,Bhargav ,Nandkishor,Jagtap,,81,Male,football,pune,2017-18
+30/05/2023 11:06:34,2201067,srishti ,Rajesh,Jain,23,7.3,Female,badminton,durg,2015
+30/05/2023 11:06:41,2201088,Sahil,Sunil,Karpe,23,80,Male,Snocker,Nashik,2014
+30/05/2023 11:06:44,2201051,Sanskriti ,.,gupta,,100,Female,.,Varanasi,2017
+30/05/2023 11:07:08,2201083,SUYASH,DILIP,KAMBLE,23,7.7,Male,MOTORSPORTS,SASWAD,80
+30/05/2023 11:07:11,2201007,Radhesahyam ,Girish,Ambhore,22,8.9,Male,Cricket,Pune,2017
+30/05/2023 11:07:26,2201054,Viresh ,Nandkumar,Hiremath,,7.9,Male,Cricket,Sangli,2016
+30/05/2023 11:07:39,2201029,Tasmay ,Ghanshyam,Daimiwal,22,7.8,Male,Football,Pune,2017
+30/05/2023 11:07:42,2201075,vaibhav,Bharatrao,Kadam,23,95,Male,Chess,Jalna,2016
